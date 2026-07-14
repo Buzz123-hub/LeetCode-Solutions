@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
