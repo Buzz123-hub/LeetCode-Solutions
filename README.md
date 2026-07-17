@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0283-move-zeroes](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
