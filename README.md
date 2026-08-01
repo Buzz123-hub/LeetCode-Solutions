@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
