@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0224-basic-calculator](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
