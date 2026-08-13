@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0480-sliding-window-median](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0480-sliding-window-median](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 ## Tree
 |  |
 | ------- |
@@ -150,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
