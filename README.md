@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0306-additive-number](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 ## Linked List
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0480-sliding-window-median) |
+## Backtracking
+|  |
+| ------- |
+| [0306-additive-number](https://github.com/Buzz123-hub/LeetCode-Solutions/tree/master/0306-additive-number) |
 <!---LeetCode Topics End-->
